@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ROSDroneController</string>
+    <string name="action_settings">Change server IP</string>
+    <string name="connect">Connect</string>
+    <string name="connect_no">Connect◽</string>
+    <string name="connect_yes">Connected◾</string>
+</resources>
